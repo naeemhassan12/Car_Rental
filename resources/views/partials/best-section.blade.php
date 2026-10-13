@@ -1,0 +1,95 @@
+  <section class="best_section">
+    <div class="container">
+      <div class="book_now">
+        <div class="detail-box">
+          <h2>
+            Our Best Cars
+          </h2>
+          <p>
+            It is a long established fact that a reader will be distracted by the
+          </p>
+        </div>
+        <div class="btn-box">
+          <a href="">
+            Book Now
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end best section -->
+
+  <!-- rent section -->
+
+  <section class="rent_section layout_padding">
+    <div class="container">
+      <div class="rent_container">
+        <div class="box">
+          <div class="img-box">
+            <img src="images/r-1.png" alt="">
+          </div>
+          <div class="price">
+            <a href="">
+              Rent $200
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/r-2.png" alt="">
+          </div>
+          <div class="price">
+            <a href="">
+              Rent $200
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/r-3.png" alt="">
+          </div>
+          <div class="price">
+            <a href="">
+              Rent $200
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/r-4.png" alt="">
+          </div>
+          <div class="price">
+            <a href="">
+              Rent $200
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/r-5.png" alt="">
+          </div>
+          <div class="price">
+            <a href="">
+              Rent $200
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/r-6.png" alt="">
+          </div>
+          <div class="price">
+            <a href="">
+              Rent $200
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="btn-box">
+        <a href="">
+          See More
+        </a>
+      </div>
+    </div>
+  </section>
